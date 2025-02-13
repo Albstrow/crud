@@ -1,7 +1,8 @@
 import React from "react";
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import AdminRedirect from "./pages/AdminRedirect";
-import HomePage from "./pages/HomePage"; 
+import ProductList from "./components/ProductList";
+import AdminRedirect from "./components/AdminRedirect";
+
 
 function App() {
   return (
