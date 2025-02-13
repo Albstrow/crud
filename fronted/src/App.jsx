@@ -8,6 +8,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<ProductList />} />
+        <Route path="/demo" element={<ProductList />} />
         <Route path="/admin" element={<AdminRedirect />} />
       </Routes>
     </Router>
