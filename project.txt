@@ -1,0 +1,21 @@
+Project Description: Create a basic e-commerce website with an admin panel to manage product inventory using SQL or MySQL for the database. The admin should have full CRUD functionality (Create, Read, Update, Delete) 
+to manage product details,
+including product name, 
+description,
+price, 
+and images.
+
+The website should have a user-friendly frontend where customers can browse products in a well-organized layout.
+
+Requirements:
+API: Use FastAPI (preferred) or a RESTful API.
+Database: SQL or MySQL for storing product data.
+Frontend: Use React JS (preferred), Next JS, or Django for building the user interface.
+Styling: Implement responsive design using Tailwind CSS.
+Admin Panel: Allow admins to:
+Add new products
+Edit existing product details
+Remove products from the inventory
+Deployment: After completing the assignment:
+Submit the project via a GitHub repository, including a detailed README file with setup instructions and screenshots of the admin panel and product pages.
+Deploy the application on a free cloud hosting service such as Vercel, Netlify, Render, or any other free platform.
