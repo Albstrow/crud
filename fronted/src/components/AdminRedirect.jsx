@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 
 const AdminRedirect = () => {
   useEffect(() => {
-    window.open("http://127.0.0.1:8000/admin/", "_blank"); // Open Django Admin in a new tab
+    window.open("https://vishalecom.pythonanywhere.com/admin/", "_blank"); // Open Django Admin in a new tab
   }, []);
 
   return (
