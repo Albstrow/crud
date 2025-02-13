@@ -10,7 +10,7 @@ const AdminRedirect = () => {
       <h1 className="text-2xl font-bold mb-4">Admin Panel</h1>
       <p className="text-gray-600">Django Admin has opened in a new tab.</p>
       <a
-        href="http://127.0.0.1:8000/admin/"
+        href="http://vishalecom.pythonanywhere.com/admin/"
         target="_blank"
         rel="noopener noreferrer"
         className="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-700 transition"
