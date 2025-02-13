@@ -7,7 +7,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<ProductList />} />
+        <Route path="/d" element={<ProductList />} />
         <Route path="/admin" element={<AdminRedirect />} />
       </Routes>
     </Router>
